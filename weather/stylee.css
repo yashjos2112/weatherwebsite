@@ -1,0 +1,16 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    background:rgba(1,0,0,0.7) url( "https://source.unsplash.com/random");
+  /* background-color: white;*/
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.helo
+{
+    color: aliceblue;
+}
